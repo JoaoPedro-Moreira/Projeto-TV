@@ -1,4 +1,4 @@
-# Protejo TV
+# Projeto TV
 
 Este projeto simula o funcionamento de uma televisão por meio de uma aplicação desenvolvida em Java. Foi meu primeiro projeto utilizando Programação Orientada a Objetos (POO), permitindo colocar em prática conceitos fundamentais como classes, objetos, atributos e métodos.
 
